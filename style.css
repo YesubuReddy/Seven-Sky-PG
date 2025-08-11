@@ -87,7 +87,7 @@ nav a:hover {
   content: "";
   position: absolute;
   top: 0; left: 0; width: 100%; height: 100%;
-  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/SEVEN_SKY/Public/PG_out.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/PG_out.jpg') center/cover no-repeat;
   z-index: -1;
   animation: zoomHero 20s ease-in-out infinite alternate;
 }
@@ -253,3 +253,4 @@ footer {
     font-size: 0.9rem;
   }
 }
+
